@@ -4,7 +4,10 @@
 	+ Dart: version < 2.12 
 - [**Build**]: run cmd: flutter pub get
 
-<img src="https://github.com/Phuc1995/Flutter_DDD_Architecture/blob/main/image/screen_shot_1.jpeg"
+- [**Screen login and register**]: You can register new User via Account Google(symbol Google) or new mail(button Register). All authentication was managed by Firebase Auth
+<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/login_page.jpeg" width="300"> <img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/login_page.jpeg" width="300"> 
+- [**Screen login and register**]
+
 
 #### Dependencies
 
