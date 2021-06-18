@@ -10,12 +10,12 @@
 ## There are some screens:
 - [**Screen login and register**]: You can register new User via Account Google(symbol Google) or new mail(button Register, input value on 2 text file login). All authentication was managed by Firebase Auth.
  
-<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/login_page.jpeg" width="300" height="350"> <img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/google.jpeg" width="300" height="350"> 
+<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/login_page.jpeg" width="300" height="600"> <img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/google.jpeg" width="300" height="600"> 
 
 - [**Screen user request form**]
 <img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/request_page.jpeg" width="300" height="500">
 - [**Screen Admin**]
-<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/admin_page.jpeg" width="300">
+<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/admin_page.jpeg" width="300" height="500>
 
 #### Dependencies
 
