@@ -15,7 +15,9 @@
 ## Some task can't do:
 - [**Notification**]:
 	+ Root cause: I don't have more time to build a server to complete this task.
-	+ Solution: I can use libary ANGEL(https://angel-dart.dev/) of Dart 
+	+ Solution: I can use libary ANGEL(https://angel-dart.dev/) of Dart(I have built a server to handle HTTP, upload data and parser file as XML, Json on my old project), Spring Boot(Java)
+- [**Function Live Stream**]: 
+	+ Solution: User can create a Live Stream their channel Youtube. On the app, I will use the plugin youtube_player_flutter(https://pub.dev/packages/youtube_player_flutter), webview_flutter(https://pub.dev/packages/webview_flutter). It will solve the problem of too large database from users and the problem of not having a server
 
 ## There are some screens:
 - [**Screen login and register**]: You can register new User via Account Google(symbol Google) or new mail(button Register, input value on 2 text file login). All authentication was managed by Firebase Auth.
