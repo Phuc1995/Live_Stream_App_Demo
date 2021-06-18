@@ -6,6 +6,7 @@
 - [**Account**]: 
  	+ User: register via Account Google or google mail.
  	+ Admin: admin@gmail.com pass: admin123
+ - If have any issue with the build local, you can use the link (https://drive.google.com/drive/u/0/folders/1_brVPricc7e5eq4_UjfNCGNWKS_ttLZu) to download the app(Android). I hope that will not happen.
 
 ## Estimation for task:
 - **Read and analyze requirement**: 1h
