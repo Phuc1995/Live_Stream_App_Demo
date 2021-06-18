@@ -30,7 +30,7 @@
 
 - [**Screen Admin**]
 
-<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/admin_page.jpeg" width="300" height="500>
+<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/request_page.jpeg" width="300" height="500">
 														   
 														   
 
