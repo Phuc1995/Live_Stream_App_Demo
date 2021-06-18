@@ -3,11 +3,17 @@
 	+ Flutter: 1.0< version <2.0
 	+ Dart: version < 2.12 
 - [**Build**]: run cmd: flutter pub get
+- [**Account**]: 
+ 	+ User: register via Account Google or google mail.
+ 	+ Admin: admin@gmail.com pass: admin123
 
-- [**Screen login and register**]: You can register new User via Account Google(symbol Google) or new mail(button Register). All authentication was managed by Firebase Auth
-<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/login_page.jpeg" width="300"> <img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/login_page.jpeg" width="300"> 
-- [**Screen login and register**]
-
+## There are some screens:
+- [**Screen login and register**]: You can register new User via Account Google(symbol Google) or new mail(button Register, input value on 2 text file login). All authentication was managed by Firebase Auth.
+<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/login_page.jpeg" width="300"> <img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/google.jpeg" width="300"> 
+- [**Screen user request form**]
+<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/request_page.jpeg" width="300">
+- [**Screen Admin**]
+<img src="https://github.com/Phuc1995/Live_Stream_App_Demo/blob/master/assets/admin_page.jpeg" width="300">
 
 #### Dependencies
 
