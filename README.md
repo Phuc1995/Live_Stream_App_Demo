@@ -12,6 +12,11 @@
 - **Coding**: 6h
 - **Writting Readme file**: 2h
 
+## Some task can't do:
+- [**Notification**]:
+	+ Root cause: I don't have more time to build a server to complete this task.
+	+ Solution: I can use libary ANGEL(https://angel-dart.dev/) of Dart 
+
 ## There are some screens:
 - [**Screen login and register**]: You can register new User via Account Google(symbol Google) or new mail(button Register, input value on 2 text file login). All authentication was managed by Firebase Auth.
  
