@@ -1,0 +1,59 @@
+- Const: If you have multiple const Color(0xFF00CCFF) in your code, only one instance will be created.
+- The implement keyword is used to implement an interface by forcing the redefinition of the functions.
+- yield returns values from an Iterable or a Stream.
+  yield* is used to recursively call its Iterable or Stream function.
+- Equatable
+- Const
+- Stateless and stateful?
+- CrossAxisAlignment.stretch: full view
+- ctr + alt + m
+- Call native
+- Animation
+- Dio
+- keyboardType: TextInputType.emailAddress: set keyboard support for email format,
+- FirestoreService._(); create 1 instance and private contructor
+- final id = widget.job?.id ?? documentIdFromCurrentDate();
+- typedef ItemWidgetBuilder<T> = Widget Function(BuildContext context, T item); no body
+- Widget:
+    + Divider():  this represents a divider. Dividers can be used in lists, Drawers, and elsewhere to separate content.,
+    + Dismissible(): A widget that can be dismissed by dragging in the indicated direction.
+    + Expanded(): expands a child of a Row, Column, or Flex so that the child fills the available space.
+    + Placeholder(): This widget is useful during development to indicate that the interface is not yet complete.
+    + InkWell() :A rectangular area of a Material that responds to touch.
+- CancelableOperation or CancelableCompleter : cancel the future async 2.5.0
+-  if (job.ratePerHour > 0.0) ...<Widget>[]
+- extension on libary: are a way to add functionality to existing libraries
+- Future.wait([])
+- @injectable: make sure inject GetIt
+- Test:
+    - verifyZeroInteractions:
+    - String fixtures(String name) => File('test/fixtures/${name}').readAsStringSync();
+    - thenAnswer to stub methods that return a Future or Stream
+    - TypeMatcher():  Creates a type matcher for the given type parameter.
+    - await untilCalled():
+    -  expectLater(bloc.state, emitsInAnyOrder(expected));:       final expected = [
+                                          Empty(),
+                                          Error(message: INVALID_INPUT_FAILURE_MESSAGE),
+                                        ];
+
+ - @immutable:
+ - get_it:
+    + Class requiring cleanup(such as Blocs) shouldn't be registered as singletons
+    + LazySingleton: is registered when is requested
+    + @LazySingleton(as: IAuthFacade)
+ - clean new technical from medium
+
+ -BLoc:
+    - BlocConsumer
+    - BlocListener
+
+ DDD
+ - Infrastructure:
+    + Repositories: capture the try catch and failure from to API
+ - Freezed:
+    + Freezed is a code generation package that offers many useful features. From sealed unions, to pattern matching, to json serialization
+    + Immutability makes it easier to reason about the code
+    + Immutable objects are thread-safe
+    + Preventing illegal states by validating the state at the constructor
+    + flutter pub run build_runner watch --delete-conflicting-outputs
+ - Error.safeToString('$explation Failure was: $valueFailure') :The conversion is guaranteed to not throw, so it won't use the object's toString method.
